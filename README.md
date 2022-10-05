@@ -1,3 +1,3 @@
 # DEMO
 
-some explore
+some explore!
